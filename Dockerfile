@@ -1,4 +1,4 @@
-FROM ubuntu:bionic
+FROM ubuntu:18.04
 MAINTAINER ANTONIO antonioluis1231@hotmail.com
 RUN apt update -y
 RUN apt upgrade -y
